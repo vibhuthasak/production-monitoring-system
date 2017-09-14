@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>red-sign-black-green-icon-right-blue-mark.png</file>
+    <file>Sewing.png</file>
+    <file>dsicropped.png</file>
+    <file>connector.png</file>
+    <file>banner_image.jpg</file>
+    <file>right.png</file>
+    <file>wrong.png</file>
+    <file>Feedbin-Icon-home-edit.svg.png</file>
+    <file>7a516f46d08dcaecf20c0184a3b6993a.jpg</file>
+    <file>3d6cfa22471.png</file>
+    <file>Feedbin-Icon-home-edit.jpg</file>
+  </qresource>
+</RCC>
